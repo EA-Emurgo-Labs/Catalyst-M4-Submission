@@ -13,15 +13,15 @@ This repository contains all documentation and evidence supporting the completio
 | Debugging & Testing Reports/ | Includes debugging logs, testing reports, and QA summaries. |
 | Feedback Reports/ | User and partner feedback collected during testing and deployment. |
 | Impact Measurement Frameworks/ | Frameworks and methodologies for tracking and evaluating impact. |
-| Integration Report/ | Documentation of integrations performed during the milestone (if applicable). |
+| Integration Report/ | Documentation of integrations performed during Cohort 1. |
 | Market Penetration Strategies/ | Plans and activities executed to expand reach and adoption. |
-| Partnerships/ | Partnership records and collaboration documents. |
+| Partnerships/ | Partnership records and collaboration documents (Redacted). |
 | PoC Submissions/ | Proof of Concept submissions demonstrating technical and functional capabilities. |
-| Progress Report/ | Consolidated milestone progress documentation and supporting evidence. |
-| Roadmaps/ | Updated project roadmaps and delivery timelines. |
-| Technical Architecture Docs/ | System architecture diagrams, component documentation, and technical specifications. |
+| Progress Report/ | Consolidated progress documentation for each team participating in Cohort 1. |
+| Roadmaps/ | Updated project roadmaps and delivery timelines for Cohort 1 Projects. |
+| Technical Architecture Docs/ | System architecture diagrams, component documentation, and technical specifications for each Cohort 1 project. |
 | Cohort 1 Performance Evaluation Report.pdf | Evaluation report for Cohort 1 performance and outcomes. |
-| Cohort 2 Selection and Onboarding.pdf | Details of Cohort 2 recruitment, selection, and onboarding. |
+| Cohort 2 Selection and Onboarding.pdf | Details of Cohort 2 selection, and onboarding. |
 | README.md | This file – overview of the milestone submission repository. |
 
 ---
